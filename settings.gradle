@@ -1,1 +1,1 @@
-include ':app', ':statuslayout'
+include ':app', ':library'

@@ -1,4 +1,4 @@
-package com.csming1995.statuslayout;
+package com.csm;
 
 import org.junit.Test;
 

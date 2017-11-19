@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.CompoundButton;
 import android.widget.Switch;
 
-import com.csming1995.statuslayout.Component.StatusLayout;
+import com.csm.Component.StatusLayout;
 
 import java.util.ArrayList;
 
@@ -23,24 +23,24 @@ public class DemoActivity extends AppCompatActivity {
     /**
      * 开关
      */
-    Switch mSwitchIsNomal;
-    Switch mSwitchNetNotWorked;
-    Switch mSwitchEmpty;
+    private Switch mSwitchIsNomal;
+    private Switch mSwitchNetNotWorked;
+    private Switch mSwitchEmpty;
 
     /**
      * StatusLayout，状态切换布局
      */
-    StatusLayout mStatusLayoutDemo;
-    View mCustMessageView;
+    private StatusLayout mStatusLayoutDemo;
+    private View mCustMessageView;
 
     /**
      * mRcvDemo 内容列表
      * mDemoAdapter 适配器
      * mDataDemo 数据
      */
-    RecyclerView mRvDemo;
-    DemoAdapter mDemoAdapter;
-    ArrayList<String> mDataDemo = new ArrayList<String>();
+    private RecyclerView mRvDemo;
+    private DemoAdapter mDemoAdapter;
+    private ArrayList<String> mDataDemo = new ArrayList<String>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState){

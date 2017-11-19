@@ -1,4 +1,4 @@
-package com.csming1995.statuslayout.Exception;
+package com.csm.Exception;
 
 /**
  * Created by meitu on 2017/7/7.

@@ -1,4 +1,4 @@
-package com.csming1995.statuslayout.Component;
+package com.csm.Component;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -14,8 +14,8 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.csming1995.statuslayout.Exception.IllegalNumException;
-import com.csming1995.statuslayout.R;
+import com.csm.Exception.IllegalNumException;
+import com.csm.R;
 
 import java.util.ArrayList;
 import java.util.HashMap;
