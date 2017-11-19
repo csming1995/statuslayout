@@ -4,7 +4,7 @@ A custom Layout to switch status；
 
 # Screenshot
 
-![screenshot](https://raw.githubusercontent.com/csming1995/AutoAdjustSeekbar/master/autoadjustseekbar.gif)
+![screenshot](https://raw.githubusercontent.com/csming1995/statuslayout/master/staatuslayout.gif)
 
 ## Add dependency
 ### **Step 1.** Add the JitPack repository to your build file
